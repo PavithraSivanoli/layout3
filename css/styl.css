@@ -1,0 +1,66 @@
+
+
+.start
+{
+	
+	background-color:black;
+	height:75px;
+	width:1348px;
+	
+}
+.welcome
+{
+	
+	width:1350px;
+	background-color:blue;
+	height:200px;
+
+				text-align:center;
+		line-heigth:10px;			
+}
+.About-this-page
+{
+	
+	width:1350px;
+	height:500px;
+
+		text-align:center;
+		line-heigth:10px;
+		background-color:purple;
+		
+
+}
+.service
+{
+	margin-top:0px;
+	width:1350px;
+	background-color:coral;
+	height:400px;
+
+		text-align:center;
+		line-heigth:10px;
+			
+}
+.contact
+{
+	
+	width:1350px;
+	background-color:pink;
+	height:300px;
+		
+		text-align:center;
+		line-heigth:10px;
+
+}
+.website
+{
+	
+	width:1350px;
+	background-color:green;
+	height:70px;
+		
+		text-align:center;
+		line-heigth:10px;
+
+		
+}
